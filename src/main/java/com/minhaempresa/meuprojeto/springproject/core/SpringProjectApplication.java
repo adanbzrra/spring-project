@@ -1,4 +1,4 @@
-package com.minhaempresa.meuprojeto.springproject;
+package com.minhaempresa.meuprojeto.springproject.core;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
